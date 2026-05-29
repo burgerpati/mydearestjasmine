@@ -1,8 +1,10 @@
-﻿@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
 
 body{
-				background: Light Green;
-				font-family: Poppins;
+    background-color: rgb(178, 149, 190);
+}
+}
+    font-family: Poppins;
 }
 
 
@@ -47,10 +49,10 @@ body{
 				font-weight: bold;
 				font-family: Poppins;
 	    z-index: 4444;
-	    border: 2px solid red;
+	    border: 2px solid rgb(8, 8, 155);
 }
 .group1 button:hover{
-				background: white;
+				background: rgb(191, 157, 157);
 				border: 2px solid black;
 }
 
@@ -84,14 +86,14 @@ body{
 				padding-bottom:5px ;
 				font-weight: bold;
 				font-family: Poppins;
-				border: 2px solid black;
+				border: 2px solid rgb(4, 15, 76);
 }
 #btn1:hover{
-				background: white;
+				background: rgb(143, 74, 151);
 				border: 2px solid black;
 }
 #btn2:hover{
-				background: white;
+				background: rgb(143, 74, 151);
 				border: 2px solid black;
 }
 #btn2{
@@ -101,7 +103,7 @@ body{
 				padding-bottom:5px ;
 				font-weight: bold;
 				font-family: Poppins;
-				border: 2px solid red;
+				border: 2px solid rgb(26, 13, 13);
 				
 	
 }
@@ -110,7 +112,7 @@ body{
 				font-size: 25px;
 				margin-bottom: 2em;
 				font-weight: bold;
-				color: red;
+				color: rgb(83, 9, 93);
 }
 #hands{
 				width: 50px;
